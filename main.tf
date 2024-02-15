@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-west-2"
-  access_key = "AKIA424KEU2F3GTQHAOV"
-  secret_key = "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"
+  access_key = "########"
+  secret_key = "######################################"
 }
 
 # resource "aws_instance" "terec2" {
